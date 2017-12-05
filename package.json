@@ -1,0 +1,10 @@
+{
+  "name": "sponsorship",
+  "version": "0.0.0",
+  "description": "A REST API to help ONG apply sponsorship programs",
+  "main": "app.js",
+  "repository": "git@github.com:gabrielcaires/sponsorship.git",
+  "author": "Gabriel Caires <gabrielcairesmar@gmail.com>",
+  "license": "Apache 2",
+  "private": false
+}
